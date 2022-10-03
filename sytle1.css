@@ -1,0 +1,150 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: grey;
+  
+    
+}
+.navbarcontainer{
+    display: inline-flex;
+    justify-content: space-between;
+  width: 700px;
+  margin-left: 650px;
+
+  
+}
+.imgn{
+    width: 85px;
+
+}
+.h6container{
+    width: 100px;
+   padding-top: 6px;
+   color: white;
+}
+.codoyh6{
+    display: inline-flex;
+    align-items: center;
+    margin-left: 110px;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.elementonav1{
+    color: green;
+}
+body{
+    background-image: url(Imagen2.jpg);
+    background-size: cover;
+}
+.seccionmedia{
+    margin-left: 800px;
+    margin-top: 300px;
+    color: white;
+}
+.confbsas{
+    text-align: right;
+}
+.h1container{
+   display: block;
+   margin-right: 100px;
+}
+.pcontainer{
+    width: 500px;
+    display: block;
+    text-align: right;
+    margin-left: 520px;
+}
+.botonescontainer{
+    display: inline-flex;
+    margin-left: 720px;
+}
+.botonblanco{
+    padding-right: 10px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+/* {{{
+.cajaazul{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+.cajaroja{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.cajanegra{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
+.cajaamarilla{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+
+    
+} */
+
+
+
+/* }
+.logocontainer{
+    display: inline-flex;
+    align-items: center;
+}
+.imagen{
+    width: 85px;
+    align-items: center;
+
+
+}
+.titulocontainer{
+    display: inline-flex;
+}
+.navbarcontainer{
+text-align: center;
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+
+}
+.divcontainer{
+    display: inline-flex;
+    padding-left: 980px;
+}
+header {
+    display: flex;
+    height: 70px;
+    background-color: #2C3E50;
+    align-items: center;
+    /* justify-content: space-between; */
+/* }
+.elementonav{
+    padding-left: 10px;
+padding-right: 10px;
+} */ 
+

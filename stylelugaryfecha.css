@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.derecha {
+    background: grey;
+    height: 100vh;
+    width: 50%;
+}
+
+.izquierda {
+    background: url(honolulu.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 100vh;
+}
+
+#pantalla-dividida {
+    display: flex;
+}
+
+.elementos {
+    margin-left: 20px;
+}
+
+.blancos {
+    color: white;
+}

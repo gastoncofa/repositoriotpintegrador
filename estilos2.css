@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    width: 80px;
+}
+.arribaizq{
+    display: inline-flex;
+    margin-left: 67px;
+}
+.h6container{
+    padding-top: 10px;
+}
+/* .navbarcontainer{
+    display: inline-flex;
+}
+.hola{
+    text-decoration: none;
+    display: inline-flex;
+} */

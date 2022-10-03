@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.cardscontainer {
+    width: 1200px;
+    display: inline-flex;
+    margin-left: 350px; 
+}
+
+.cardgroup {
+    text-align: center;
+}
+
+.javareact {
+    width: 120px;
+}
+
+#steve {
+    height: 399px;
+}
+
+.negocios {
+    width: 120px;
+    margin-left: 5px;
+}
+body{
+    flex-wrap: wrap;
+}
