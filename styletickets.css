@@ -1,0 +1,161 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: grey;
+  
+    
+}
+.navbarcontainer{
+    display: inline-flex;
+    justify-content: space-between;
+  width: 700px;
+  margin-left: 650px;
+
+  
+}
+.imgn{
+    width: 85px;
+
+}
+.h6container{
+    width: 100px;
+   padding-top: 6px;
+   color: white;
+}
+.codoyh6{
+    display: inline-flex;
+    align-items: center;
+    margin-left: 110px;
+
+}
+header a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.elementonav1{
+    color: green;
+}
+.estudiante{
+    border: 1px;
+    border-color: blue;
+    border-style: groove;
+    width: 220px;
+    height: 190px;
+}
+.trainee{
+    border: 1px;
+    border-color: aquamarine;
+    border-style: groove;
+    width: 220px;
+    height: 190px;
+  
+}
+.traineecontainer{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.junior{
+    border: 1px;
+    border-color: red;
+    border-style: groove;
+    width: 220px;
+    height: 190px;
+}
+.cardscontenedor{
+    display:flex;
+    margin-left: 580px;
+    margin-top: 30px;
+    text-align: center;
+    align-items: center;
+    
+}
+.textestudiante{
+    padding-top: 20px;
+    
+}
+.texttrainee{
+    padding-top: 20px;
+}
+.textjunior{
+    padding-top: 20px;
+}
+.ventayvalor{
+    margin-left: 695px;
+    text-align: center;
+    display: inline-block;
+}
+.todocontainer{
+    width: 680px;
+    margin-left: 580px;
+}
+.menuselect{
+    width: 400px;
+    padding-top: 24px;
+    padding-left: 17px;
+}
+.selectycant{
+    display: flex;
+}
+.cantycategoria{
+    display: flex;
+    height: 10px;
+    padding-top: 20px;
+    
+}
+.categoria{
+    margin-left: 300px;
+    
+}
+.fondoazul{
+    width: 680px;
+    margin-left: 580px;
+    padding-top: 30px;
+}
+.botones{
+    display: inline-block;
+    margin-left: 580px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+#bot1{
+    width: 340px;
+}
+#bot2{
+    width: 340px;
+    padding-left: 10px;  
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    background-color: #2C3E50;
+    align-items: center;
+    margin-top: 150px;
+}
+/* 
+ a {
+    text-decoration: none;
+    color: white;
+    width: 80px;
+}   */
+footer a{
+    text-decoration: none;
+    width: 80px;
+    color: aliceblue;
+}
+
+.navbar {
+    display: inline-flex;
+    width: 1100px;
+    text-align: center;
+    margin-left: 370px;
+}  
